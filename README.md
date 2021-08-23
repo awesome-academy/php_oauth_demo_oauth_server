@@ -1,4 +1,4 @@
-# PHP API Demo: Laravel Sanctum
+# PHP OAuth Demo: Laravel Passport
 This is a demonstation on using Laravel Sanctum to create an API. In this project, we'll be able to issue API tokens, revoke those tokens and using those tokens to retrive user's data.
 
 # Requirement
